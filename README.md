@@ -1,6 +1,6 @@
 # artificial-neural-network
 
-The following tasks were carried out:
+The following tasks were carried out on three different data sets:
 
 Task 1: Exploratory data analysis - visual analysis of data. <br/>
 Task 2: Data Pre-Processing <br/>
